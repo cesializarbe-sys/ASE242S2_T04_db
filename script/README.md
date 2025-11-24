@@ -57,6 +57,10 @@ ASE242S2_T04_db/
 
    Este archivo - información general del repositorio
 
+### 4️⃣ **resources/SumaqMikuy_Documentacion.pdf**
+
+   Documento PDF con el manual técnico y documentación adicional del proyecto.
+
 ---
 
 ## 🗄️ Tablas de la Base de Datos
@@ -176,7 +180,6 @@ Usuarios crean Reservas → Generan Pedidos → Contienen Detalles de Pedidos
 ---
 
 ## 📞 Información de Contacto
-
 **Proyecto:** SUMAK MIKUY 2025  
 **Repositorio:** ASE242S2_T04_db  
 **Rama:** main  
