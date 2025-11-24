@@ -59,7 +59,7 @@ ASE242S2_T04_db/
 
 ### 4️⃣ **resources/SumaqMikuy_Documentacion.pdf**
 
-   Documento PDF con el manual técnico y documentación adicional del proyecto.
+   Pdf del diccionario de datos generado desde vertabelo con toda la documentación de la estructura de la base de datos.
 
 ---
 
