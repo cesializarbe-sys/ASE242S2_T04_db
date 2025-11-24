@@ -181,13 +181,3 @@ Usuarios crean Reservas → Generan Pedidos → Contienen Detalles de Pedidos
 **Repositorio:** ASE242S2_T04_db  
 **Rama:** main  
 **Última actualización:** 24 de Noviembre, 2025
-
----
-
-## 📄 Licencia
-
-Este proyecto está disponible bajo los términos especificados en el archivo LICENSE del repositorio.
-
----
-
-**Documento de referencia para desarrolladores, DBA y stakeholders del proyecto SUMAK MIKUY**
